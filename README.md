@@ -4,6 +4,7 @@
 - I'm currently working in get better and learning more of javaScript.
 - I'm working in some ReactJS apps in my company, the backend's projects is in NodeJS.
 - I'm studyng Java and Mysql in college.
+- I'm currently doing oracle academy, which I'm learning Alice 3D, Greenfoot, OracleDB and Java.
 - I'm also interesting in Ruby on rails, some new language that i would like to try.
 
 <!--
