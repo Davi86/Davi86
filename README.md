@@ -1,5 +1,5 @@
 ### Hi there!  👋
-## My name is Davi Silva Dias and I love programming.
+## My name is Davi Silva Dias and I love programm.
 
 - I'm currently working in get better and learning more of javaScript.
 - I'm working in some ReactJS apps in my company, the backend's projects is in NodeJS.
